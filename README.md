@@ -31,6 +31,15 @@ Foram inseridos os seguintes gráficos:
 - **Vendedores que menos venderam**: Gráfico de colunas clusterizado com o eixo X sendo o campo **Vendedor** e o eixo Y sendo o campo **Total** com o filtro N superior no campo **Vendedor** definido para mostrar os 5 vendedores que menos venderam.
 - **Tabelas**: Duas tabelas inseridas, uma apresentando os produtos disponíveis e outra apresentando os nomes dos vendedores.
 
+## 5. Resultados
+O arquivo manipulável para ser acessado através do Power BI contendo toda a análise pode ser obtido em AnaliseVendas.pbix, arquivo aqui disponiblizado.
+### Painel Vendas
+![Vendas](https://github.com/Gui-lherme-Oliv/Dashboard_Vendas/assets/123426025/ed3742cf-ec53-4a90-bfb4-0e01ad7e5a4c)
+### Painel Melhores
+![Melhores](https://github.com/Gui-lherme-Oliv/Dashboard_Vendas/assets/123426025/0be1b160-5f57-40ff-b0c6-d9bc9a7e9e34)
+
+
+
 
 
 
