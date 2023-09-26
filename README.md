@@ -2,7 +2,7 @@
 #### Autor: Guilherme Oliveira da Rocha Cunha
 
 ## 1. Dados
-Os dados foram disponibilizados pela plataforma Udemy. Trata-se de uma tabela simulando as vendas de uma empresa em formato Excel (.xlsx), com 400 linhas e 7 colunas:
+Os dados foram disponibilizados pela plataforma Udemy. Trata-se de uma tabela chamada "vendas" que simula as vendas de uma empresa em formato Excel (.xlsx), com 400 linhas e 7 colunas:
 - **VendasID**: Identificador de cada venda
 - **Vendedor**: Nome do vendedor de cada venda
 - **Cliente**: Cliente de cada venda
@@ -16,6 +16,14 @@ Em uma análise dos dados na tabela Excel foi visto que não existiam valores nu
 - A coluna **VendasID** foi ocultada pois não será necessária para o estudo
 - O formato da coluna **Data** foi alterado para o padrão dd/mm/yyyy
 - O formato da coluna **ValorUni** foi alterado para Moeda com 2 casas decimais
-- Criada uma nova coluna chamada Total, onde nela foi utilizada a fórmula Total = Vendas[Quantidade] * Vendas[ValorUni], e alterei o formato para Moeda com 2 casas decimais. Essa coluna representa o valor total de cada venda.
+- Criada uma nova coluna chamada **Total**, onde nela foi utilizada a fórmula Total = Vendas[Quantidade] * Vendas[ValorUni], e alterado o formato para Moeda com 2 casas decimais. Essa coluna representa o valor total de cada venda.
 
-## 3. Criação do painél Vendas
+## 3. Criação do painel Vendas
+
+
+
+
+
+
+
+
