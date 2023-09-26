@@ -19,6 +19,14 @@ Em uma análise dos dados na tabela Excel foi visto que não existiam valores nu
 - Criada uma nova coluna chamada **Total**, onde nela foi utilizada a fórmula Total = Vendas[Quantidade] * Vendas[ValorUni], e alterado o formato para Moeda com 2 casas decimais. Essa coluna representa o valor total de cada venda.
 
 ## 3. Criação do painel Vendas
+Foram inseridos os seguintes gráficos:
+- **Total de vendas**: Gráfico de área com o eixo X sendo o campo **Data** e o eixo Y sendo o campo **Total** para mostrar o total de vendas de acordo com o tempo. Pode ser disposto em por ano, trimestre, mês ou dia.
+- **Total de vendas por produto**: Gráfico de colunas clusterizado com o eixo X sendo o campo **Data**, eixo Y sendo o campo **Total** e legenda sendo o campo **Produto** para mostrar o total de vendas de cada produto de acordo com o tempo. Pode ser disposto em por ano, trimestre, mês ou dia.
+
+
+
+
+
 
 
 
