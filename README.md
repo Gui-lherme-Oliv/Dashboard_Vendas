@@ -27,6 +27,9 @@ Foram inseridos os seguintes gráficos:
 Foram inseridos os seguintes gráficos:
 - **Melhores clientes**: Gráfico de pizza com a legenda sendo o campo **Cliente** e os valores o campo **Total** com o filtro N superior no campo **Cliente** definido para mostrar os 5 maiores compradores, ou seja, os 5 clientes que mais gastaram em compras.
 - **Produtos mais vendidos**: Gráfico de colunas clusterizados com o eixo Y sendo o campo **Total** e a legenda sendo o campo **Produto** com o filtro N superior no campo **Produto** definido para mostrar os 5 produtos mais vendidos.
+- **Vendedores que mais venderam**: Gráfico de colunas clusterizado com o eixo X sendo o campo **Vendedor** e o eixo Y sendo o campo **Total** com o filtro N superior no campo **Vendedor** definido para mostrar os 5 vendedores que mais venderam.
+- **Vendedores que menos venderam**: Gráfico de colunas clusterizado com o eixo X sendo o campo **Vendedor** e o eixo Y sendo o campo **Total** com o filtro N superior no campo **Vendedor** definido para mostrar os 5 vendedores que menos venderam.
+- **Tabelas**: Duas tabelas inseridas, uma apresentando os produtos disponíveis e outra apresentando os nomes dos vendedores.
 
 
 
