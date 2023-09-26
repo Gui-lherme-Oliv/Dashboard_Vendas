@@ -24,7 +24,9 @@ Foram inseridos os seguintes gráficos:
 - **Total de vendas por produto**: Gráfico de colunas clusterizado com o eixo X sendo o campo **Data**, eixo Y sendo o campo **Total** e legenda sendo o campo **Produto** para mostrar o total de vendas de cada produto de acordo com o tempo. Pode ser disposto em por ano, trimestre, mês ou dia.
 
 ## 4. Criação do painel Melhores
-
+Foram inseridos os seguintes gráficos:
+- **Melhores clientes**: Gráfico de pizza com a legenda sendo o campo **Cliente** e os valores o campo **Total** com o filtro N superior no campo **Cliente** definido para mostrar os 5 maiores compradores, ou seja, os 5 clientes que mais gastaram em compras.
+- **Produtos mais vendidos**: Gráfico de colunas clusterizados com o eixo Y sendo o campo **Total** e a legenda sendo o campo **Produto** com o filtro N superior no campo **Produto** definido para mostrar os 5 produtos mais vendidos.
 
 
 
