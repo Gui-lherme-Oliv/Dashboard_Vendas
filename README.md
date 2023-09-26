@@ -23,6 +23,8 @@ Foram inseridos os seguintes gráficos:
 - **Total de vendas**: Gráfico de área com o eixo X sendo o campo **Data** e o eixo Y sendo o campo **Total** para mostrar o total de vendas de acordo com o tempo. Pode ser disposto em por ano, trimestre, mês ou dia.
 - **Total de vendas por produto**: Gráfico de colunas clusterizado com o eixo X sendo o campo **Data**, eixo Y sendo o campo **Total** e legenda sendo o campo **Produto** para mostrar o total de vendas de cada produto de acordo com o tempo. Pode ser disposto em por ano, trimestre, mês ou dia.
 
+## 4. Criação do painel Melhores
+
 
 
 
